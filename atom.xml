@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2020-12-23T12:53:51.866Z</updated>
+  <updated>2020-12-24T09:00:38.667Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,24 +17,35 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>使用hexo+github搭建博客</title>
-    <link href="http://example.com/2020/12/23/%E4%BD%BF%E7%94%A8hexo-github%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
-    <id>http://example.com/2020/12/23/%E4%BD%BF%E7%94%A8hexo-github%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</id>
-    <published>2020-12-23T12:53:51.000Z</published>
-    <updated>2020-12-23T12:53:51.866Z</updated>
+    <title>C++起步</title>
+    <link href="http://example.com/posts/da5f6973.html"/>
+    <id>http://example.com/posts/da5f6973.html</id>
+    <published>2020-12-24T05:36:43.102Z</published>
+    <updated>2020-12-24T09:00:38.667Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="C-起步"><a href="#C-起步" class="headerlink" title="C++起步"></a>C++起步</h3><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;hello&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br></pre></td></tr></table></figure><a class="btn-beautify button--animated blue larger" href="https://butterfly.js.org/" title="下载"><span>下载</span></a>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;C-起步&quot;&gt;&lt;a href=&quot;#C-起步&quot; class=&quot;headerlink&quot; title=&quot;C++起步&quot;&gt;&lt;/a&gt;C++起步&lt;/h3&gt;&lt;figure class=&quot;highlight c++&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;</summary>
+      
     
     
     
+    <category term="分类" scheme="http://example.com/categories/%E5%88%86%E7%B1%BB/"/>
     
+    
+    <category term="标签" scheme="http://example.com/tags/%E6%A0%87%E7%AD%BE/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2020/12/23/hello-world/"/>
-    <id>http://example.com/2020/12/23/hello-world/</id>
+    <link href="http://example.com/posts/4a17b156.html"/>
+    <id>http://example.com/posts/4a17b156.html</id>
     <published>2020-12-23T12:29:02.655Z</published>
-    <updated>2020-12-23T12:29:02.655Z</updated>
+    <updated>2020-12-24T08:49:30.375Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
