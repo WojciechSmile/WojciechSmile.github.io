@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2020-12-24T09:00:38.667Z</updated>
+  <updated>2020-12-24T09:21:17.143Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://example.com/posts/da5f6973.html"/>
     <id>http://example.com/posts/da5f6973.html</id>
     <published>2020-12-24T05:36:43.102Z</published>
-    <updated>2020-12-24T09:00:38.667Z</updated>
+    <updated>2020-12-24T09:21:17.143Z</updated>
     
     <content type="html"><![CDATA[<h3 id="C-起步"><a href="#C-起步" class="headerlink" title="C++起步"></a>C++起步</h3><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="built_in">cout</span>&lt;&lt;<span class="string">&quot;hello&quot;</span>&lt;&lt;<span class="built_in">endl</span>;</span><br></pre></td></tr></table></figure><a class="btn-beautify button--animated blue larger" href="https://butterfly.js.org/" title="下载"><span>下载</span></a>]]></content>
     
