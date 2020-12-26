@@ -1327,8 +1327,8 @@ canvas:not(#ribbon-canvas),
   --global-font-size: 14px;
   --global-bg: #fff;
   --font-color: #4c4948;
-  --hr-border: #a4d8fa;
-  --hr-before-color: #80c8f8;
+  --hr-border: #d2ebfd;
+  --hr-before-color: #bfe4fb;
   --search-bg: #f6f8fa;
   --search-input-color: #4c4948;
   --search-result-title: #4c4948;
@@ -1341,7 +1341,7 @@ canvas:not(#ribbon-canvas),
   --tab-button-active-bg: #fff;
   --card-bg: #fff;
   --sidebar-bg: #f6f8fa;
-  --btn-hover-color: #ff7242;
+  --btn-hover-color: #3cb371;
   --btn-color: #fff;
   --btn-bg: #49b1f5;
   --text-bg-hover: #49b1f5;
@@ -1840,7 +1840,7 @@ blockquote footer cite:before {
   font-size: 1.72em;
 }
 .article-sort-title:hover:before {
-  border-color: #ff7242;
+  border-color: #3cb371;
 }
 .article-sort-title:before {
   position: absolute;
@@ -1892,7 +1892,7 @@ blockquote footer cite:before {
   transition: all 0.2s ease-in-out;
 }
 .article-sort-item:hover:before {
-  border-color: #ff7242;
+  border-color: #3cb371;
 }
 .article-sort-item:before {
   position: absolute;
@@ -1922,7 +1922,7 @@ blockquote footer cite:before {
   border-color: #49b1f5;
 }
 .article-sort-item.year:before {
-  border-color: #ff7242;
+  border-color: #3cb371;
 }
 .article-sort-item-time {
   color: #858585;
@@ -2046,7 +2046,7 @@ blockquote footer cite:before {
   content: '';
 }
 #page .category-lists ul li:hover:before {
-  border-color: #ff7242;
+  border-color: #3cb371;
 }
 .layout {
   display: -webkit-box;
@@ -3647,7 +3647,7 @@ _:future,
   overflow-wrap: break-word;
 }
 #article-container a {
-  color: #49b1f5;
+  color: #99a9bf;
 }
 #article-container a:hover {
   text-decoration: underline;
@@ -5511,7 +5511,7 @@ blockquote.pullquote.right {
   line-height: 1.7;
 }
 #local-search .search-dialog .local-search__hit-item:hover:before {
-  border-color: #ff7242;
+  border-color: #3cb371;
 }
 #local-search .search-dialog .local-search__hit-item:before {
   position: absolute;
